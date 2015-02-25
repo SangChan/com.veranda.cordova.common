@@ -1,0 +1,6 @@
+{
+    "version": "0.0.1",
+    "name": "com.veranda.cordova.common",
+    "cordova_name": "Common",
+    "description": "Veranda Common Plugin"
+}
